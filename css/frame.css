@@ -384,6 +384,12 @@ hr {
   margin: 0 20px;
 }
 
+<!--
+.flex-item {
+  margin: 0;
+  flex: 1;
+}
+-->
 .left-align {
   float: left;
 }
